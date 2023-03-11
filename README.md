@@ -9,5 +9,9 @@ In the merchants tab you will be seeing the amount spent to this merchant as dol
 There is a transaction in the database at january 2029, to let you test the filters.
 
 to run the backend :  clone the repo and run npm install then npm start
+
+
+
+
 to run the frontend :  clone the repo and run npm install then npm run dev
 

@@ -6,6 +6,8 @@ If the user changes a merchant for any transaction, the company which the transa
 the new merchant and all the transactions which belong to this company will be changed to the new merchant.
 
 In the merchants tab you will be seeing the amount spent to this merchant as dollars and as perectange.
+
+
 There is a transaction in the database at january 2029, to let you test the filters.
 
 to run the backend :  clone the repo and run npm install then npm start
